@@ -51,3 +51,17 @@ Retrospectiva – Sprint 2: Muscle Power
 🎯 Conclusión general
 
 Este Sprint me ayudó a consolidar conocimientos sobre maquetado web, organización de archivos y estructura de proyectos. Aprendí a solucionar problemas con rutas, estilos y visibilidad del diseño, como el caso del banner. Además, implementé un tablero de Trello para planificar y visualizar mi avance. Para el Sprint 3 quiero trabajar con mayor rapidez, seguir mejorando la presentación visual y comenzar a explorar funcionalidades dinámicas.
+
+
+
+🚀 Lo que espero del Sprint 3
+
+- Aprender a utilizar EJS y comprender cómo funcionan los motores de plantillas.
+
+- Separar correctamente los componentes visuales para mantener el orden del proyecto.
+
+- Mejorar la reutilización del código usando partials como el header, footer y head.
+
+- Entender mejor la lógica de las rutas y renderizado de vistas en Express.
+
+- Dejar una estructura lista para crecer como proyecto real.

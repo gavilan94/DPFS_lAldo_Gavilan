@@ -29,3 +29,9 @@ Soy Aldo Gavilán, estudiante del curso de Desarrollo Full Stack. Este es mi pri
 5. [https://www.gnc.com/](https://www.gnc.com/)  
    Marca reconocida en el rubro. Su sitio muestra buenas prácticas en fichas de producto y promociones.
 
+## 📌 Tablero de Trabajo
+
+🔗 [Ver tablero en Trello](https://trello.com/invite/b/6880eb708efca4efa620ff9a/ATTIee0a07b41f07f4f6d1a9167cc67da5318634555A/sprint-2-muscle-power)
+
+   
+
